@@ -1,0 +1,98 @@
+/* Estilos telefonos */
+
+.Estilo1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.Estilo2 {
+	font-style: italic;
+	font-size: 12px;
+	text-align: right;
+}
+.EstiloTitulo {
+	font-size: 25px;
+	color: #0404B4;
+	font-weight: bold;
+	text-align: center;
+}
+
+.fondogris {
+	font-family: "Century Gothic";
+        background-color: #ffffff;
+}
+
+.TablaPrincipal{
+	border-radius: 15px;
+	background: #D8D8D8;
+	/*background: url("./imagenes/imagen30.jpg");*/
+	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.7);
+	width: 45%;
+	/*margin-top:3%;
+	margin-left: 25%;*/
+	overflow: auto;
+	font-family: verdana;
+	margin: auto;
+}
+
+.TablaSecundaria{
+	border-radius: 15px;
+	background: #768186;
+	margin: auto;
+}
+
+.TablaEnlaces{
+	/*background: #ffffff;*/
+	width: 50%;
+	margin: auto;
+	font-family: verdana;
+	font-weight: bold;
+	
+}
+
+.TablaPrueba{
+	width: 45%;
+	overflow: auto;
+	margin: auto;
+}
+
+.BotonPrincipal{
+	border: 1px #CCCCCC solid;
+	color: #0404B4;
+	font-size: 25px;
+	font-family: Arial, Comic Sans MS, Helvetica, Calibri;
+	font-weight: bold;
+	border-radius: 13px;
+	background-color: #E0EBEF;
+	padding: 0px 15px 0px 15px;
+	text-decoration: none;
+}
+.BotonPrincipal:hover{
+	border: 1px #CCCCCC solid;
+	background-color: #C8CFE1;
+}
+
+.cabeceraTabla {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:#00CCFF;
+	font-style:normal;
+	font-weight:bold;
+	font-size:16px
+}
+
+.imagenIndex {
+	background-color: #D8D8D8;
+	background-image: url("./imagenes/INDICE.bmp");
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+body{
+	background-color: #768186;
+}
+
+a:link {color:#2B196D;};
+a:visited {color:#2B196D;};  /* visited link */
+a:hover {color:#2B196D;};  /* mouse over link */
+a:active {color:#2B196D;};  /* selected link */
+
+/* Fin Estilos propios del integrador */

@@ -1,0 +1,52 @@
+
+#cabecera, #menu, #lateral, #comentarios {
+  display: none !important;
+}
+
+body, #contenido, #pie {
+  float: none !important;
+  width: auto !important;
+  margin:  0 !important;
+  padding: 0 !important;
+}
+
+body { 
+	color: #000; 
+	font: 100%/150% Georgia, "Times New Roman", Times, serif; 
+}
+
+#titulo{
+    background-color: #cccccc !important;
+    padding: 50 50 50 50px !important;
+    text-align:center !important;
+   	clear: both !important;
+   	width: 1000px !important;
+   	font-size: 36pt !important;
+}
+
+#principal {
+    background-color: #ffffff !important;
+    width: 100% !important;
+    margin: 50 50 50 50px !important;
+}
+
+#principal table {
+   background-color: #ffffff;
+   width: 100%;
+   border: solid !important;
+}
+
+#principal table tr{
+   border: 2px solid #cccccc;
+}
+
+#principal table td{
+   border: 2px solid #cccccc;
+   font-size: 16pt !important;
+   border: solid !important;
+   text-align: center !important;
+}
+
+.accordion {
+	active: true;
+}
