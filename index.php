@@ -38,18 +38,18 @@
         <div class="tile-group ten">
             
                 
-                <img src="./imagenes/logo.png"  style="height: 80%; width: 10%; display: inline; align-content: left;padding-top: 5px;"/>
+            <a href="./abmpersonas.php"><img src="./imagenes/logo.png" title="ABM de Personal" style="height: 80%; width: 10%; display: inline; align-content: left;padding-top: 5px;"/></a>
         
                 <div align="center" class="col-xs-3" style="display: inline; align-items: center "> 
                     <span class="header fg-blue" style="padding-left:  230px; padding-bottom: 10px;vertical-align: middle;">Indice Telef&oacute;nico</span>
                 </div>
-                <div class="title" style="float: right;left: 5px;">
-                    <br/> <a href="./abmpersonas.php" style="display: inline;vertical-align: bottom;">ABM Personas</a>
-                </div>
+<!--                <div class="on-right">
+                     <a href="./abmpersonas.php" style="display: inline;vertical-align: bottom;">ABM Personas</a>
+                </div>-->
 
            
-<br/>
-                    
+
+
                 <div class="row">
                                 <button  name="btnBuscar" class="tile six bg-gray bg-hover-blue" title="Buscar" onclick="redirigirBuscar();" href="#" target="_blank" data-click="transform">			
                                                
