@@ -42,14 +42,7 @@
         
                 <div align="center" class="col-xs-3" style="display: inline; align-items: center "> 
                     <span class="header fg-blue" style="padding-left:  230px; padding-bottom: 10px;vertical-align: middle;">Indice Telef&oacute;nico</span>
-                </div>
-<!--                <div class="on-right">
-                     <a href="./abmpersonas.php" style="display: inline;vertical-align: bottom;">ABM Personas</a>
-                </div>-->
-
-           
-
-
+                </div>         
                 <div class="row">
                                 <button  name="btnBuscar" class="tile six bg-gray bg-hover-blue" title="Buscar" onclick="redirigirBuscar();" href="#" target="_blank" data-click="transform">			
                                                
