@@ -4,7 +4,7 @@ include_once 'bdConfig.php';
 
 class bd {
 	//Propiedades
-	var $servidor  ;
+	var $servidor ;
 	var $usuario ;
 	var $clave ;
 	var $base ;	
